@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;GraphAnalyser/src/OldGraph&apos; to &apos;NewGraph&apos;" description="Rename resource &apos;OldGraph&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/OldGraph" name="NewGraph" stamp="1415283488860" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;GraphAnalyser/src/NewGraph&apos; to &apos;NewGraph.txt&apos;" description="Rename resource &apos;NewGraph&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/NewGraph" name="NewGraph.txt" stamp="1415283698581" updateReferences="true"/>
+</session>
